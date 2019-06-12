@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Sort6 {
     /*
-    Сортировка Шелла
+    Сортировка Шелла.
      */
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
