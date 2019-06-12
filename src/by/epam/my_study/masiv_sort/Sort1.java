@@ -50,7 +50,7 @@ public class Sort1 {
                     resultArray[i] = secondArray[j];
 //                    System.out.println(i);
                 }
-                i--;                                                //на последнем шаге получается дврйное добавление, защет чего пропускается 1 символ
+                i--;                                                //на последнем шаге получается двойное добавление, засчет чего пропускается 1 символ
             }else{
  //               System.out.println("i =" + i + "fist = " + secondArray.length);
                 resultArray[i] = firstArray[i - secondArray.length];
