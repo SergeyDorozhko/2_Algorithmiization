@@ -11,6 +11,7 @@ public class Decomposition3 {
     }
 
 
+
     public static void main(String[] args){
        int hexagoneSide = 8;
        double hexagoneArea = 6 * triangleArea(hexagoneSide);  // правильный шестиугольник состоит из 6 правильных треугольников
