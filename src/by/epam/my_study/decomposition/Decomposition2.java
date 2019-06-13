@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Decomposition2 {
     /*
-    написать метод  для нахождения НОД четырех натуральных чисел
+    Hаписать метод  для нахождения НОД четырех натуральных чисел
      */
     public static int greatestCommonDivisor(int numberOne, int numberTwo, int numberThree, int numberFour ){
         int minOfNumbers = Math.min(Math.min(numberOne, numberTwo), Math.min(numberThree, numberFour));
