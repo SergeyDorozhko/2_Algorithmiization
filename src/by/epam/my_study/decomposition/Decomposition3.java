@@ -2,7 +2,7 @@ package by.epam.my_study.decomposition;
 
 public class Decomposition3 {
     /*
-    Вычислить площадь правильного шестиугольника со стороной а, используя метод вычисления площади треуглиника.
+    Вычислить площадь правильного шестиугольника со стороной A, используя метод вычисления площади треуглиника.
      */
 
     public static double triangleArea (int sideOfRegularTriangle){    //площадь правильного треугольника

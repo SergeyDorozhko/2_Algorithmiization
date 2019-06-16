@@ -2,7 +2,7 @@ package by.epam.my_study.decomposition;
 
 public class Decomposition6 {
      /*
-    Написать метод, проверяющий, являются ли 3 числа взаимно простые.
+    Написать метод, проверяющий, являются ли 3 числа взаимно простыми.
      */
 
     public static void main(String[] args){

@@ -2,7 +2,7 @@ package by.epam.my_study.decomposition;
 
 public class Decomposition15 {
     /*
-    Найти все натуральные n-значные числа, цифры в которых образуют строго возростающую последовательность.
+    Найти все натуральные n-значные числа, цифры в которых образуют строго возрастающую последовательность.
      */
     public static void main(String[] arga){
         int numberOrder = 2;

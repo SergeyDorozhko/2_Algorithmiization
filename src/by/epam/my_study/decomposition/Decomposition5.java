@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Decomposition5 {
     /*
-    Составить программу, которая в массиве A[n] находи ворое по виличине число.
+    Составить программу, которая в массиве A[n] находи второе по величине число.
      */
 
     public static void main(String[] args){

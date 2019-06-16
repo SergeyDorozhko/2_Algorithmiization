@@ -3,7 +3,7 @@ package by.epam.my_study.decomposition;
 
 public class Decomposition8 {
     /*
-    задан массив D. определить следующие суммы от D1 до D3, от D3 до D5,от D 4 до D6;
+    Задан массив D. Определить следующие суммы от D1 до D3, от D3 до D5,от D 4 до D6;
      */
 
     public static void main(String[] args){

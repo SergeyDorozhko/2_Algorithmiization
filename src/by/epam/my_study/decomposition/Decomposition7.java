@@ -2,7 +2,7 @@ package by.epam.my_study.decomposition;
 
 public class Decomposition7 {
     /*
-       написать метод для вычисления суммы факториалов всех нечетных чисел от 1 до 9.
+       Написать метод для вычисления суммы факториалов всех нечетных чисел от 1 до 9.
         */
     public static void main(String[] args){
         int oddFactorialTo = 9;

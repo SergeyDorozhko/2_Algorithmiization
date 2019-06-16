@@ -2,7 +2,7 @@ package by.epam.my_study.decomposition;
 
 public class Decomposition11 {
     /*
-   написать метод который определяет в каком из двух чисел больше цифр.
+   Написать метод который определяет в каком из двух чисел больше цифр.
     */
     public static void main(String[] args){
         int one = 1354678;
